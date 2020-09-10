@@ -5,7 +5,11 @@
     "description": "DTMU"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "rajesh"
+      }
+    ],
     "diagrams": [
       {
         "title": "DTMU",
